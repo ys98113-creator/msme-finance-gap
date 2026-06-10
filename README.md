@@ -32,6 +32,7 @@ msme-finance-gap/
 ├── 03_clustering.py         # K-Means: segment states by finance gap profile
 ├── 04_classification.py     # Random Forest: predict firm-level credit constraints
 ├── 05_gap_prediction.py     # XGBoost: predict country-level finance gap size
+├── 06_sql_analysis.py       # SQLite: 8 policy queries across firms and IFC tables
 ├── data/                    # Cleaned datasets
 └── outputs/                 # All charts and visualizations
 ```
@@ -83,6 +84,7 @@ python 02_eda.py
 python 03_clustering.py
 python 04_classification.py
 python 05_gap_prediction.py
+python 06_sql_analysis.py
 ```
 
 Charts are saved to the `outputs/` folder.
@@ -95,4 +97,11 @@ This analysis is based on research conducted at the IFC, World Bank Group, where
 
 ---
 
-*Built with Python | pandas · matplotlib · seaborn · scikit-learn · xgboost*
+### 5. SQL Analysis (SQLite)
+- Loaded cleaned datasets into an in-memory SQLite database
+- Wrote 8 policy-focused queries across two tables (firms, ifc_gap)
+- Questions answered: constraint rate by size/sector/state, access funnel drop-off, data-sparse vs rich regions, gap per MSME by country
+
+---
+
+*Built with Python | pandas · matplotlib · seaborn · scikit-learn · xgboost · sqlite3*
