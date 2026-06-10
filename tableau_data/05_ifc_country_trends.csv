@@ -1,0 +1,11 @@
+country,year,region,msme_count_millions,finance_gap_usd_bn,formal_msmes_pct,credit_constrained_pct,gdp_per_capita_usd,constrained_pct,formal_msmes_pct_display
+India,2017,South Asia,63.4,397,0.4,0.71,1981,71.0,40.0
+India,2018,South Asia,63.4,380,0.41,0.69,2010,69.0,41.0
+India,2019,South Asia,64.2,370,0.42,0.67,2100,67.0,42.0
+India,2020,South Asia,63.9,410,0.39,0.74,1900,74.0,39.0
+India,2021,South Asia,64.2,390,0.43,0.68,2256,68.0,43.0
+Bangladesh,2019,South Asia,7.8,45,0.32,0.78,1856,78.0,32.0
+Pakistan,2019,South Asia,3.2,48,0.28,0.8,1285,80.0,28.0
+Sri Lanka,2019,South Asia,1.0,8,0.52,0.58,3852,58.0,52.0
+Nepal,2019,South Asia,0.4,5,0.25,0.82,1071,82.0,25.0
+Indonesia,2019,East Asia,62.9,165,0.55,0.52,4174,52.0,55.0

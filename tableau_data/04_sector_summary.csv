@@ -1,0 +1,7 @@
+sector,total_firms,constrained_pct,avg_credit_gap_usd,bank_account_pct
+Agriculture,18,100.0,39611.0,5.6
+IT,1,100.0,200000.0,100.0
+Micro-enterprise,1,100.0,50000.0,100.0
+Retail,16,81.2,80938.0,81.2
+Services,7,14.3,25714.0,100.0
+Manufacturing,7,0.0,0.0,100.0

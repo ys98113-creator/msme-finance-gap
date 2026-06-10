@@ -1,0 +1,4 @@
+firm_size,total_firms,constrained_pct,bank_account_pct,avg_credit_gap_usd,avg_revenue_usd
+Medium,8,12.5,100.0,37500.0,2075000.0
+Micro,27,100.0,25.9,52148.0,16222.0
+Small,15,40.0,100.0,48667.0,432333.0

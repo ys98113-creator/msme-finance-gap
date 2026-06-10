@@ -1,0 +1,11 @@
+state,total_firms,constrained_pct,bank_account_pct,credit_applied_pct,avg_credit_gap_usd,avg_revenue_usd,micro_pct,data_sparse,region_type
+Bihar,5,100.0,0.0,0.0,37000.0,8200.0,100.0,1,Data-Sparse
+Gujarat,5,40.0,100.0,60.0,68000.0,1066400.0,20.0,0,Data-Rich
+Jharkhand,5,80.0,20.0,0.0,22000.0,13800.0,80.0,1,Data-Sparse
+Karnataka,5,40.0,100.0,60.0,56000.0,1291600.0,20.0,0,Data-Rich
+Maharashtra,5,20.0,100.0,80.0,30000.0,1083000.0,20.0,0,Data-Rich
+Odisha,5,80.0,20.0,0.0,26600.0,24600.0,80.0,1,Data-Sparse
+Rajasthan,5,100.0,40.0,20.0,80000.0,85800.0,60.0,1,Data-Sparse
+Tamil Nadu,5,40.0,100.0,60.0,32000.0,979600.0,20.0,0,Data-Rich
+Uttar Pradesh,5,100.0,40.0,20.0,60000.0,47000.0,80.0,1,Data-Sparse
+West Bengal,5,80.0,80.0,40.0,76000.0,104600.0,60.0,0,Data-Rich
