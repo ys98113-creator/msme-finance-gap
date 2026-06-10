@@ -63,6 +63,25 @@ msme-finance-gap/
 
 ---
 
+## Output Charts
+
+### Exploratory Data Analysis
+![EDA](outputs/msme_eda.png)
+
+### State Clustering (K-Means)
+![Clustering](outputs/msme_clusters.png)
+
+### Credit Constraint Classification (Random Forest)
+![Classification](outputs/msme_classification.png)
+
+### Finance Gap Prediction (XGBoost)
+![Gap Prediction](outputs/msme_gap_prediction.png)
+
+### SQL Analysis
+![SQL Analysis](outputs/msme_sql_analysis.png)
+
+---
+
 ## Key Findings
 
 - **Micro enterprises** face the highest credit constraint rates (80%+), far exceeding small and medium firms
