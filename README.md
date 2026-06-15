@@ -1,6 +1,6 @@
-# MSME Finance Gap — India Analysis
+# Small Business Credit Risk Analysis — India
 
-A Python-based analytical study of the financing gap facing micro, small, and medium enterprises (MSMEs) in India, built on IFC MSME Finance Gap data and World Bank Enterprise Survey microdata.
+A Python-based analytical study of the credit access gap facing small businesses in India, built on IFC Finance Gap data and World Bank Enterprise Survey microdata.
 
 This project replicates and extends research conducted at the **International Finance Corporation (IFC), World Bank Group**, applying machine learning techniques to identify which firms and regions are most financially excluded — and why.
 
